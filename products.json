@@ -1,0 +1,14 @@
+[
+{
+"id":1,
+"name":"Nike Tech Fleece",
+"image":"images/urun1.jpg",
+"price":"2500₺"
+},
+{
+"id":2,
+"name":"Trapstar Hoodie",
+"image":"images/urun2.jpg",
+"price":"1900₺"
+}
+]
